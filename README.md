@@ -8,5 +8,7 @@ La máquina a implementar sigue la siguiente representación en UML:
 
 ![Diagrama](https://github.com/ORT-DA2/Teorico-Implementacion-Maquinas-de-Estado/blob/master/imagenes/maquina-diagrama.png)
 
+Ver las implementaciones brindadas en el código fuente del repositorio.
+
 
 
