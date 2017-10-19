@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementacionPorCodigo", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementacionPorInterpreteDeTablas", "ImplementacionPorInterpreteDeTablas\ImplementacionPorInterpreteDeTablas.csproj", "{009C1436-038A-4282-A4E7-AF64687EE207}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementacionUsandoStatePattern", "ImplementacionUsandoStatePattern\ImplementacionUsandoStatePattern.csproj", "{2FBE6A24-15BC-438A-A73A-6115D1C77BC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{009C1436-038A-4282-A4E7-AF64687EE207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{009C1436-038A-4282-A4E7-AF64687EE207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{009C1436-038A-4282-A4E7-AF64687EE207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBE6A24-15BC-438A-A73A-6115D1C77BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBE6A24-15BC-438A-A73A-6115D1C77BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBE6A24-15BC-438A-A73A-6115D1C77BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBE6A24-15BC-438A-A73A-6115D1C77BC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

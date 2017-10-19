@@ -1,0 +1,6 @@
+C:\Users\Gabriel Piffaretti\Desktop\Teorico-Implementacion-Maquinas-de-Estado\ImplementacionMaquinasDeEstado\ImplementacionUsandoStatePattern\bin\Debug\ImplementacionUsandoStatePattern.exe.config
+C:\Users\Gabriel Piffaretti\Desktop\Teorico-Implementacion-Maquinas-de-Estado\ImplementacionMaquinasDeEstado\ImplementacionUsandoStatePattern\bin\Debug\ImplementacionUsandoStatePattern.exe
+C:\Users\Gabriel Piffaretti\Desktop\Teorico-Implementacion-Maquinas-de-Estado\ImplementacionMaquinasDeEstado\ImplementacionUsandoStatePattern\bin\Debug\ImplementacionUsandoStatePattern.pdb
+C:\Users\Gabriel Piffaretti\Desktop\Teorico-Implementacion-Maquinas-de-Estado\ImplementacionMaquinasDeEstado\ImplementacionUsandoStatePattern\obj\Debug\ImplementacionUsandoStatePattern.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Piffaretti\Desktop\Teorico-Implementacion-Maquinas-de-Estado\ImplementacionMaquinasDeEstado\ImplementacionUsandoStatePattern\obj\Debug\ImplementacionUsandoStatePattern.exe
+C:\Users\Gabriel Piffaretti\Desktop\Teorico-Implementacion-Maquinas-de-Estado\ImplementacionMaquinasDeEstado\ImplementacionUsandoStatePattern\obj\Debug\ImplementacionUsandoStatePattern.pdb

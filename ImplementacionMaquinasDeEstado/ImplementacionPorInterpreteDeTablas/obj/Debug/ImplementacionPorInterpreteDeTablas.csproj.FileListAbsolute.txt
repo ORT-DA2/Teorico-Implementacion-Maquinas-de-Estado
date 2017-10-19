@@ -1,0 +1,5 @@
+C:\Users\Gabriel Piffaretti\Desktop\Teorico-Implementacion-Maquinas-de-Estado\ImplementacionMaquinasDeEstado\ImplementacionPorInterpreteDeTablas\bin\Debug\ImplementacionPorInterpreteDeTablas.exe.config
+C:\Users\Gabriel Piffaretti\Desktop\Teorico-Implementacion-Maquinas-de-Estado\ImplementacionMaquinasDeEstado\ImplementacionPorInterpreteDeTablas\bin\Debug\ImplementacionPorInterpreteDeTablas.exe
+C:\Users\Gabriel Piffaretti\Desktop\Teorico-Implementacion-Maquinas-de-Estado\ImplementacionMaquinasDeEstado\ImplementacionPorInterpreteDeTablas\bin\Debug\ImplementacionPorInterpreteDeTablas.pdb
+C:\Users\Gabriel Piffaretti\Desktop\Teorico-Implementacion-Maquinas-de-Estado\ImplementacionMaquinasDeEstado\ImplementacionPorInterpreteDeTablas\obj\Debug\ImplementacionPorInterpreteDeTablas.exe
+C:\Users\Gabriel Piffaretti\Desktop\Teorico-Implementacion-Maquinas-de-Estado\ImplementacionMaquinasDeEstado\ImplementacionPorInterpreteDeTablas\obj\Debug\ImplementacionPorInterpreteDeTablas.pdb
